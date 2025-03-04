@@ -1,0 +1,9 @@
+[package]
+name = "xtask"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nom = "8.0.0"
+pulldown-cmark = "0.13.0"
+replace_with = "0.1.7"

@@ -10,4 +10,4 @@
 pub use crate::base::*;
 
 mod base;
-mod ops;
+pub mod ops;

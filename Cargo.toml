@@ -2,5 +2,6 @@
 resolver = "2"
 members = [
   "crates/akshare",
-  "crates/akshare-macros"
+  "crates/akshare-macros",
+  "crates/xtask"
 ]
